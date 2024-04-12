@@ -6,7 +6,8 @@ About Me:
 - ✨ I'm Looking to collaborate on Exciting Work
 - 📫 How to reach me khalanekomal2001@gmail.com
   
-Social:
+   Social:
+
 LinkedIn: www.linkedin.com/in/komal-khalane-732068263
 <!---
 KomalKhalane25/KomalKhalane25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
