@@ -4,7 +4,7 @@ About Me:
 - 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning Anything that excites me
 - ✨ I'm Looking to collaborate on Exciting Work
-- 📫 How to reach me khalanekomal2001@gmail.com
+- 📫 How to reach me komalkhalane25@gmail.com
   
    Social:
 
