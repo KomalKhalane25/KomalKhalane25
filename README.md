@@ -1,5 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m Komal Khalane
+
 🔭 I’m currently working on<br><br>Data Analysis projects using Python (Pandas, NumPy)<br><br>Data cleaning, data visualization, and exploratory data analysis (EDA)<br><br>👯 I’m looking to collaborate on<br><br>Entry-level and real-world Data Analyst projects<br><br>Open-source projects related to data analysis and visualization<br><br>🤝 I’m looking for help with<br><br>Improving analytical problem-solving skills<br><br>Advanced data visualization and storytelling with data<br><br>🌱 I’m currently learning<br><br>Python for Data Analysis (Pandas, NumPy, Matplotlib)<br><br>SQL for data querying and analysis<br><br>Power BI for interactive dashboards<br><br>💬 Ask me about<br><br>Data cleaning & preprocessing<br><br>Exploratory Data Analysis (EDA)<br><br>SQL queries and basic dashboards<br><br>⚡ Fun fact<br><br>I enjoy turning raw data into meaningful insights 📈
 
 
